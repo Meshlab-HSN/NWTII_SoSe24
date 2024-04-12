@@ -1,4 +1,4 @@
-name: json-yaml-validate 
+name: validate-yaml 
 on:
   push:
     paths:
@@ -14,11 +14,21 @@ permissions:
   contents: read
 
 jobs:
-  json-yaml-validate:
+  syntax-check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: yaml-schema-validator
+      - name: check syntax
+        id: json-yaml-validate
+        uses: GrantBirki/json-yaml-validate@v2.6.2
+        with:
+          use_dot_match: false
+          files: "ssh_keys.yaml"
+  schema-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: check schema
         uses: nrkno/yaml-schema-validator-github-action@v5.0.0
         with:
           schema: _schema.yaml
