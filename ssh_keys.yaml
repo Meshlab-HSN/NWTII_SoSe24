@@ -1,1 +1,4 @@
-
+# An entry has to look like:
+# - team: X
+#   name: "<your name>"
+#   ssh_key: "<your public ssh key>"
