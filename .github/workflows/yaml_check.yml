@@ -1,0 +1,21 @@
+name: json-yaml-validate 
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  json-yaml-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: yaml-schema-validator
+        uses: nrkno/yaml-schema-validator-github-action@v5.0.0
+        with:
+          schema: _schema.yaml
+          target: ssh_keys.yaml
