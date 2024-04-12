@@ -1,9 +1,13 @@
 name: json-yaml-validate 
 on:
   push:
+    paths:
+      - "*.yaml"
     branches:
       - main
   pull_request:
+    paths:
+      - "*.yaml"
   workflow_dispatch:
 
 permissions:
