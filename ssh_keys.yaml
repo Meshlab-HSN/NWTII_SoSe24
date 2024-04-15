@@ -24,3 +24,7 @@
 
 # INF groups/teams
 # Start at team number 11
+
+-team: 14
+ name: "Patrick/Laura"
+ ssh_key: "YBNLB0KFyGnpN/Fjj1bEoiVd9BJy15lqRUG4frhB0zg= patrick@lenovoFedora"
