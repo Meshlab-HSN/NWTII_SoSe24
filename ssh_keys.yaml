@@ -6,3 +6,7 @@
 - team: 10
   name: "Jonas Jelonek"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHYvmMx/tnJ0N6XnlVPjaMNnPUgQxdubco+5IkpKM5WL jonas.jelonek@Jonas-MBP"
+
+- team: 2
+  name: "Orifova Kamola"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN0hlXzpskDj4xKA4e8xVzzFjZ6B0mSD4NPflMaidwkV User@WIN-ERAATN0G3SA"
