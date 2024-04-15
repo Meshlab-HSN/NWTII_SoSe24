@@ -32,7 +32,7 @@
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP5Uon0DLs9jfR3vnEJV86jt9+ssggzk6ZXrLm1pUqcP kaktu@WIN-R7M3HMSHL76"
 - team: 13
   name: "Nico Große"
-  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAMg/3Qu6p/BNnKoCcivIXvgHjY1HNo+DG25rcHmEMJU njgro@NAspire5_02"#
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAMg/3Qu6p/BNnKoCcivIXvgHjY1HNo+DG25rcHmEMJU njgro@NAspire5_02"
 - team: 14
   name: "Patrick/Laura"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICuge0ornJKrUQVNePyoViwRqMasDj+s7SKkMN1+BiLj patrick@lenovoFedora"
