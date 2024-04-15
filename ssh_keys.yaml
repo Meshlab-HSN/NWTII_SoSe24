@@ -5,7 +5,7 @@
 
 - team: 1
   name: "Tristan"
-  ssh-key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFLFCHUjvBmienBABLT+EkGgCOhyL6qUq06VbxwIZPlz tristan@YOGA"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFLFCHUjvBmienBABLT+EkGgCOhyL6qUq06VbxwIZPlz tristan@YOGA"
 - team: 10
   name: "Jonas Jelonek"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHYvmMx/tnJ0N6XnlVPjaMNnPUgQxdubco+5IkpKM5WL jonas.jelonek@Jonas-MBP"
