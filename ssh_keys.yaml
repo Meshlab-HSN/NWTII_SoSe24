@@ -24,3 +24,7 @@
 
 # INF groups/teams
 # Start at team number 11
+
+- team: 12
+  name: "Lukas Neumann","Adrian Bernhardt"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP5Uon0DLs9jfR3vnEJV86jt9+ssggzk6ZXrLm1pUqcP kaktu@WIN-R7M3HMSHL76"
