@@ -20,6 +20,7 @@ This repository provides sofware tools and documentation used in the Networking 
 # SSH access
 
 In `ssh_keys.yaml` we will collect public SSH keys from you to provide you with a virtual machine running OpenWrt and access to it via private-public key authentication. See the file on how to add your SSH key to the list.
+You need to generate an SSH keypair and submit a pull request to the repository where you add your SSH key. When you submit a pull request, it will be automatically checked for syntax and semantics of the YAML file.
 
 After your pull request has been merged, a VM will be prepared for you. This VM will be accesible through a 2-step login process:
 1. Login to our stepping stone with `ssh remote@evernet.duckdns.org -p 20322 -i <path to your private key file>`
