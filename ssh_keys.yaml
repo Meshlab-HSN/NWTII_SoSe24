@@ -27,4 +27,4 @@
 
 -team: 14
  name: "Patrick/Laura"
- ssh_key: "YBNLB0KFyGnpN/Fjj1bEoiVd9BJy15lqRUG4frhB0zg= patrick@lenovoFedora"
+ ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICuge0ornJKrUQVNePyoViwRqMasDj+s7SKkMN1+BiLj patrick@lenovoFedora"
