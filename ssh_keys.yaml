@@ -21,10 +21,9 @@
 - team: 10
   name: "Til Kaiser"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJACKjPmdEAczZKUBpqlz7TDTARBrP3XnlNTJZiLDwuQ til@Til-Notebook"
+  
+# INF groups/teams
+# Start at team number 11
 - team: 11
   name: "Robin Franke", "Jessica Luthardt"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII2HpmbDNa8vCSmp5MK0owcypDYKafaoTFT3FH2UjQuQ robin@LAPTOP-SGTQQ001"
-  
-
-# INF groups/teams
-# Start at team number 11
