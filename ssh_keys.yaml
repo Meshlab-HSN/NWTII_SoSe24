@@ -24,7 +24,18 @@
 
 # INF groups/teams
 # Start at team number 11
-
+- team: 11
+  name: "Robin Franke"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII2HpmbDNa8vCSmp5MK0owcypDYKafaoTFT3FH2UjQuQ robin@LAPTOP-SGTQQ001"
 - team: 12
-  name: "Lukas Neumann","Adrian Bernhardt"
+  name: "Lukas Neumann"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP5Uon0DLs9jfR3vnEJV86jt9+ssggzk6ZXrLm1pUqcP kaktu@WIN-R7M3HMSHL76"
+- team: 13
+  name: "Nico Große"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAMg/3Qu6p/BNnKoCcivIXvgHjY1HNo+DG25rcHmEMJU njgro@NAspire5_02"
+- team: 15
+  name: "Luca Kowitz"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN5ov+gGkIrYKl7/1VOdplRSyW2zk8n+v/5DBMIfaEyk luca@Luca-Linux"
+- team: 16
+  name: "Marius Heise"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPkm3f7bfM6wWYXDdoxMlJjgP0TLemJL+OWslGl0bDFy mahek@LAPTOP-SK6VI5B4"
