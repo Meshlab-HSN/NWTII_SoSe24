@@ -24,3 +24,6 @@
 
 # INF groups/teams
 # Start at team number 11
+- team: 13
+  name: "Nico Große"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAMg/3Qu6p/BNnKoCcivIXvgHjY1HNo+DG25rcHmEMJU njgro@NAspire5_02"
