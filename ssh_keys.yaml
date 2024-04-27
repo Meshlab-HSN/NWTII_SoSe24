@@ -13,6 +13,10 @@
 - team: 3
   name: "Nicson Andrade"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPaq8FSUHCJYAxC4kBzU/qUO4mefqrhc7/Dvt9sRbRgW venican@DESKTOP-UAC1QVL"
+- team: 3
+  name: "Ahmed Elgazzar"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOPML8letE9Hg2vnnD5ju6e4Q1CnsJCrazf0Egc3JzrW kali@kali"
+  
 
 # Supervisors
 - team: 10
