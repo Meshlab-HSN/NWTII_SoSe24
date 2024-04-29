@@ -16,7 +16,7 @@
 - team: 3
   name: "Ahmed Elgazzar"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOPML8letE9Hg2vnnD5ju6e4Q1CnsJCrazf0Egc3JzrW kali@kali"
-  - team: 4
+- team: 4
   name: "Viktoria Gilga"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGZDhQHfCGBzd6mlQqEBxKK4GHB74S2jFDVChuTUS75W"
   
