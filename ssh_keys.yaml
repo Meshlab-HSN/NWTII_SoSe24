@@ -50,3 +50,8 @@
 - team: 16
   name: "Marius Heise"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPkm3f7bfM6wWYXDdoxMlJjgP0TLemJL+OWslGl0bDFy mahek@LAPTOP-SK6VI5B4"
+- team: 17
+  name: "Nils Möhl"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK1zMrF38N4h5Dlfi1RNiyeVi/mqn2LON8BbqJXMMBIA nils@LAPTOP-75M1KI70"
+ 
+
