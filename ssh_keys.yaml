@@ -47,6 +47,7 @@
 - team: 15
   name: "Luca Kowitz"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN5ov+gGkIrYKl7/1VOdplRSyW2zk8n+v/5DBMIfaEyk luca@Luca-Linux"
+- team: 15
   name: "Tim Ziemann"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBdProJezscUd35VYopih3bKNWTypeDQhjqANXAYJYzN bobkatze@Tims-MacBook-Air-2.local"
 - team: 16
